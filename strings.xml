@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Blocker</string>
+    <string name="service_label">Reel Blocker</string>
+    <string name="service_description">Blocks the Reels tab and endless reel swiping in Instagram. A single reel opened from a message still plays. This service only looks at Instagram screens and does not store or send anything.</string>
+</resources>
